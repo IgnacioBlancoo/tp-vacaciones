@@ -10,7 +10,18 @@ body {
 	background: #FAFAFA;
 	font-family: Century Gothic ;
 	font-size: 14px;
+
 }
+
+footer{
+	bottom: 0;
+	position: fixed;
+	text-align: center;
+	font-family: Century Gothic ;
+	font-size: 9px;
+	width: 100%;
+}
+
 
 .wrap {
 	margin: auto;
@@ -73,11 +84,4 @@ body {
 
 .tareas .lista li a:hover {
 	text-decoration: line-through;
-}
-
-.pie{
-	text-align: right;
-	font-family: Century Gothic ;
-	font-size: 9px;
-	right: 20px;
 }
