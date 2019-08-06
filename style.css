@@ -9,6 +9,7 @@
 body {
 	font-family: Century Gothic ;
 	font-size: 18px;
+	background-image: url("fondo.jpg");
 }
 
 h1{
